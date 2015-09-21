@@ -12,7 +12,9 @@
     "browser-sync": "^1.9.2",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "1.0.0",
+    "gulp-compass": "^2.1.0",
     "gulp-jade": "^1.1.0",
+    "gulp-plumber": "^1.0.1",
     "gulp-ruby-sass": "^2.0.3",
     "gulp-sass": "^2.0.4"
   },
