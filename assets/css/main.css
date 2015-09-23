@@ -449,7 +449,7 @@ body {
   .home-wrap header .header-position {
     position: fixed;
     top: 30px;
-    left: 0;
+    left: 0px;
     bottom: 30px;
     width: 135px;
     display: -webkit-box;
@@ -465,6 +465,10 @@ body {
     -webkit-justify-content: space-between;
         -ms-flex-pack: justify;
             justify-content: space-between; }
+  .home-wrap header a {
+    color: #999; }
+    .home-wrap header a:hover, .home-wrap header a:active {
+      color: #666; }
   .home-wrap header h1.logo {
     overflow: hidden;
     text-indent: 101%;
@@ -474,10 +478,59 @@ body {
     height: 80px;
     padding: 0;
     margin: 0; }
-  .home-wrap header ul {
-    list-style: none; }
-    .home-wrap header ul li {
-      color: pink; }
+  .home-wrap header .site-nav ul {
+    list-style: none;
+    margin: 20px 0;
+    padding: 0 20px 0 0;
+    text-align: right; }
+  .home-wrap header .site-nav li {
+    margin-bottom: 10px; }
+    .home-wrap header .site-nav li:last-child {
+      margin-bottom: 0; }
+  .home-wrap header a {
+    color: white; }
+  .home-wrap header .email-link {
+    display: block;
+    text-align: right;
+    padding: 20px;
+    color: red; }
+  .home-wrap header .mobile-nav-toggle {
+    display: none;
+      display-width: 50px;
+      display-height: 50px;
+      display-margin-right: 20px;
+      display-align-items: center;
+      display-cursor: pointer; }
+
+@media (max-width: 775px) {
+  .home-wrap header {
+    width: auto;
+    padding: 20px 0; }
+    .home-wrap header .header-position {
+      width: auto;
+      position: relative;
+      top: auto;
+      left: auto;
+      bottom: auto;
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: row;
+          -ms-flex-direction: row;
+              flex-direction: row;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center; }
+    .home-wrap header .site-nav,
+    .home-wrap header .email-link {
+      display: none; }
+    .home-wrap header .logo {
+      height: 45px; }
+    .home-wrap header .mobile-nav-toggle {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex; } }
 
 section.about {
   background: #90CAF9; }
