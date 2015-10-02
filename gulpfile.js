@@ -1,7 +1,5 @@
 var gulp        = require('gulp');
 var browserSync = require('browser-sync');
-var compass     = require('gulp-compass');
-var plumber     = require('gulp-plumber');
 var sass        = require('gulp-sass');
 var prefix      = require('gulp-autoprefixer');
 var cp          = require('child_process');
@@ -38,35 +36,13 @@ gulp.task('browser-sync', ['sass', 'jekyll-build'], function () {
         notify: false
     });
 });
-/**
- * Compass
- */
 
-gulp.task('compass', function() {
-  gulp.src('assets/css/main.scss')
-    .pipe(plumber({
-      errorHandler: function (error) {
-        console.log(error.message);
-        this.emit('end');
-    }}))
-    .pipe(compass({
-      css: 'assets/css/**',
-      sass: 'assets/sass',
-      image: 'assets/images'
-    }))
-    .on('error', function(err) {
-      // Would like to catch the error here 
-    })
-    .pipe(minifyCSS())
-    .pipe(gulp.dest('/assets/temp'));
-});
 
 /**
  * Compile files from _scss into both _site/css (for live injecting) and site (for future jekyll builds)
  */
 gulp.task('sass', function () {
     return gulp.src('assets/css/main.scss')
-        .pipe(plumber())
         .pipe(sass({
             includePaths: ['assets/css/**'],
             onError: browserSync.notify

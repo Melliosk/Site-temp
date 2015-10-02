@@ -6,9 +6,11 @@
 @import "1-base/vars";
 @import "1-base/base";
 
+@import "2-modules/single-nav";
+
 @import "3-sections/header";
 @import "3-sections/home-about";
+@import "3-sections/home-contact";
+@import "3-sections/home-note";
 
 @import "4-layouts/home";
-
-

@@ -1,11 +1,14 @@
-section.about
+section.contact
   min-height: 100vh
+  position: absolute
+  top: 0
+  right: 0
+  left: 0
+  bottom: 0
   background:
-    image: url(/assets/img/design.png)
-    size: cover
-    position: center
-  color: white
-  z-index: -1
+      color: white
+  display: none
+  z-index: auto
 
 
 
@@ -13,22 +16,27 @@ section.about
     color: white
     margin-left: -100px
     font:
-      weight: 500
+      weight: 300
       size: 60px
     margin-top: -10px
     margin-bottom: 30px
     line-height: 1
 
   .col-1
+    position: relative
+    display: flex
+    align-items: stretch
+    flex-direction: column
+    justify-content: center
+
     p
       background:
-        color: fade-out($nav-color, 0.5)
+        color: rgba(220,220,220,0.9)
       margin-top: 50px
       padding: 10px
       border: 1px solid black
       border-radius: 10px
-      box-shadow: 10px 3px 5px rgba(0,0,0,0.5)
-
+      box-shadow: 10px 3px 10px rgba(0,0,0,0.3)
 
     @media (max-width: 640px)
       margin-left: auto
@@ -36,8 +44,19 @@ section.about
       max-width: 300px
 
 
+
+
   .lead
     padding-bottom: 180px
+
+@media (max-width: 800px)
+  section.contact
+    position: relative
+    min-width: 100%
+    transform: translateY(0)
+    padding-bottom: 15px
+    .col-1
+      padding-bottom: 25px
 
     @media (max-width: 640px)
       margin-left: auto
