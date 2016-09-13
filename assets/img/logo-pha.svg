@@ -1,116 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="1 0 101 101" style="enable-background:new 1 0 101 101;" xml:space="preserve">
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#F04925;stroke:#EF4424;stroke-miterlimit:10;}
-	.st1{fill:#FFFFFF;stroke:#00A651;stroke-miterlimit:10;}
-	.st2{fill:#00A651;stroke:#00A651;stroke-miterlimit:10;}
-	.st3{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st0{fill:#FFFFFF;stroke:#39B54A;stroke-miterlimit:10;}
+	.st1{fill:#39B54A;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st2{fill:#39B54A;stroke:#39B54A;stroke-miterlimit:10;}
 </style>
-<circle class="st0" cx="26.7" cy="45.6" r="1.5"/>
-<ellipse class="st0" cx="26" cy="53.9" rx="1.5" ry="1.6"/>
-<circle class="st0" cx="32.5" cy="45.4" r="1.5"/>
-<ellipse class="st0" cx="31.8" cy="53.7" rx="1.5" ry="1.6"/>
-<circle class="st0" cx="37.6" cy="45.4" r="1.5"/>
-<ellipse class="st0" cx="36.9" cy="53.7" rx="1.5" ry="1.6"/>
-<circle class="st0" cx="5.5" cy="45.5" r="1.5"/>
-<ellipse class="st0" cx="4.4" cy="53.8" rx="1.5" ry="1.6"/>
-<circle class="st0" cx="11.4" cy="45.3" r="1.5"/>
-<ellipse class="st0" cx="10.2" cy="53.7" rx="1.5" ry="1.6"/>
-<circle class="st0" cx="16.5" cy="45.3" r="1.5"/>
-<ellipse class="st0" cx="15.3" cy="53.7" rx="1.5" ry="1.6"/>
-<circle class="st0" cx="85.9" cy="45.4" r="1.5"/>
-<ellipse class="st0" cx="85.3" cy="53.8" rx="1.5" ry="1.6"/>
-<circle class="st0" cx="91.8" cy="45.3" r="1.5"/>
-<ellipse class="st0" cx="91.1" cy="53.6" rx="1.5" ry="1.6"/>
-<ellipse class="st0" cx="96.2" cy="53.6" rx="1.5" ry="1.6"/>
-<circle class="st0" cx="64.8" cy="45.4" r="1.5"/>
-<ellipse class="st0" cx="63.6" cy="53.7" rx="1.5" ry="1.6"/>
-<circle class="st0" cx="70.6" cy="45.2" r="1.5"/>
-<ellipse class="st0" cx="69.5" cy="53.5" rx="1.5" ry="1.6"/>
-<circle class="st0" cx="75.7" cy="45.2" r="1.5"/>
-<ellipse class="st0" cx="74.6" cy="53.5" rx="1.5" ry="1.6"/>
-<circle class="st0" cx="96.9" cy="45.3" r="1.5"/>
-<circle class="st1" cx="51.5" cy="50.5" r="50"/>
-<rect x="2" y="39.5" class="st2" width="98" height="20"/>
-<rect x="1" y="40.4" transform="matrix(1.199999e-003 1 -1 1.199999e-003 100.3542 0.266)" class="st2" width="98.2" height="20"/>
-<g>
-	<circle class="st3" cx="4.5" cy="57.7" r="0.7"/>
-	<circle class="st3" cx="21" cy="57.7" r="0.7"/>
-	<circle class="st3" cx="15.3" cy="57.7" r="0.7"/>
-	<circle class="st3" cx="9.9" cy="57.7" r="0.7"/>
-</g>
-<circle class="st3" cx="26" cy="57.7" r="0.7"/>
-<circle class="st3" cx="36.8" cy="57.7" r="0.7"/>
-<circle class="st3" cx="31.4" cy="57.7" r="0.7"/>
-<g>
-	<circle class="st3" cx="5.2" cy="41.6" r="0.7"/>
-	<circle class="st3" cx="21.7" cy="41.6" r="0.7"/>
-	<circle class="st3" cx="16" cy="41.6" r="0.7"/>
-	<circle class="st3" cx="10.6" cy="41.6" r="0.7"/>
-</g>
-<circle class="st3" cx="26.7" cy="41.6" r="0.7"/>
-<circle class="st3" cx="37.5" cy="41.6" r="0.7"/>
-<circle class="st3" cx="32.1" cy="41.6" r="0.7"/>
-<g>
-	<g>
-		<circle class="st3" cx="64.1" cy="57.6" r="0.7"/>
-		<circle class="st3" cx="80.6" cy="57.6" r="0.7"/>
-		<circle class="st3" cx="74.9" cy="57.6" r="0.7"/>
-		<circle class="st3" cx="69.6" cy="57.6" r="0.7"/>
-	</g>
-	<circle class="st3" cx="85.6" cy="57.6" r="0.7"/>
-	<circle class="st3" cx="96.4" cy="57.6" r="0.7"/>
-	<circle class="st3" cx="91.1" cy="57.6" r="0.7"/>
-	<g>
-		<circle class="st3" cx="64.8" cy="41.4" r="0.7"/>
-		<circle class="st3" cx="81.3" cy="41.4" r="0.7"/>
-		<circle class="st3" cx="75.6" cy="41.4" r="0.7"/>
-		<circle class="st3" cx="70.3" cy="41.4" r="0.7"/>
-	</g>
-	<circle class="st3" cx="86.3" cy="41.4" r="0.7"/>
-	<circle class="st3" cx="97.1" cy="41.4" r="0.7"/>
-	<circle class="st3" cx="91.8" cy="41.4" r="0.7"/>
-</g>
-<g>
-	<g>
-		<circle class="st3" cx="58.2" cy="97.6" r="0.7"/>
-		<circle class="st3" cx="58.1" cy="81.1" r="0.7"/>
-		<circle class="st3" cx="58.2" cy="86.8" r="0.7"/>
-		<circle class="st3" cx="58.2" cy="92.2" r="0.7"/>
-	</g>
-	<circle class="st3" cx="58.1" cy="76.1" r="0.7"/>
-	<circle class="st3" cx="58" cy="65.3" r="0.7"/>
-	<circle class="st3" cx="58.1" cy="70.7" r="0.7"/>
-	<g>
-		<circle class="st3" cx="42.1" cy="97.1" r="0.7"/>
-		<circle class="st3" cx="42" cy="80.5" r="0.7"/>
-		<circle class="st3" cx="42" cy="86.2" r="0.7"/>
-		<circle class="st3" cx="42" cy="91.6" r="0.7"/>
-	</g>
-	<circle class="st3" cx="41.9" cy="75.6" r="0.7"/>
-	<circle class="st3" cx="41.9" cy="64.7" r="0.7"/>
-	<circle class="st3" cx="41.9" cy="70.1" r="0.7"/>
-</g>
-<g>
-	<g>
-		<circle class="st3" cx="58" cy="37" r="0.7"/>
-		<circle class="st3" cx="58" cy="20.5" r="0.7"/>
-		<circle class="st3" cx="58.1" cy="26.2" r="0.7"/>
-		<circle class="st3" cx="58" cy="31.6" r="0.7"/>
-	</g>
-	<circle class="st3" cx="58.2" cy="15.5" r="0.7"/>
-	<circle class="st3" cx="58.3" cy="4.7" r="0.7"/>
-	<circle class="st3" cx="58.2" cy="10.1" r="0.7"/>
-	<g>
-		<circle class="st3" cx="41.8" cy="36.2" r="0.7"/>
-		<circle class="st3" cx="42" cy="19.7" r="0.7"/>
-		<circle class="st3" cx="41.9" cy="25.4" r="0.7"/>
-		<circle class="st3" cx="41.9" cy="30.8" r="0.7"/>
-	</g>
-	<circle class="st3" cx="42" cy="14.7" r="0.7"/>
-	<circle class="st3" cx="42.1" cy="3.9" r="0.7"/>
-	<circle class="st3" cx="42.1" cy="9.3" r="0.7"/>
-</g>
+<circle class="st0" cx="50" cy="50" r="50"/>
+<path class="st1" d="M49.7,88L49.7,88c-5.6,0-10.2-4.6-10.2-10.2V20c0-5.6,4.6-10.2,10.2-10.2h0c5.6,0,10.2,4.6,10.2,10.2v57.8
+	C59.9,83.4,55.3,88,49.7,88z"/>
+<path class="st2" d="M76.5,58H23.9c-5.4,0-9.7-4.4-9.7-9.7v0c0-5.4,4.4-9.7,9.7-9.7h52.6c5.4,0,9.7,4.4,9.7,9.7v0
+	C86.2,53.6,81.8,58,76.5,58z"/>
 </svg>

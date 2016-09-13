@@ -1,20 +1,21 @@
 mixin nav-content()
   ul
-    li: a(href="#about") About
-    li: a(href="#note") Notes
-    li: a(href="#contact") Contact
+    li: a(href="#drinks") Ποτά
+    li: a(href="#wines") Κρασιά
+    li: a(href="#beer").act Μπύρες
+    li: a(href="#soda") Αναψυκτικά
+    li: a(href="#accompaniment") Συνοδευτικά
+    li: a(href="#coffe") Καφές
 mixin contact()
   ul
-    li Address
-    li Phone
-    li City     
+    li: a(href="#") Προμηθευτές  
 
 .mobile-nav
   +nav-content()
 
 header
   .header-position
-    h1.logo pharmacy
+    
     
     nav.site-nav
       +nav-content()
@@ -22,6 +23,6 @@ header
     .contact  
       +contact()
       
-      a(href="#").email-link +email me
+    
     
     .mobile-nav-toggle: span

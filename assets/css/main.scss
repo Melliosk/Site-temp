@@ -7,10 +7,15 @@
 @import "1-base/base";
 
 @import "2-modules/single-nav";
+@import "2-modules/hover-effect";
 
 @import "3-sections/header";
-@import "3-sections/home-about";
-@import "3-sections/home-contact";
-@import "3-sections/home-note";
+@import "3-sections/home-drinks";
+@import "3-sections/home-wines";
+@import "3-sections/home-beer";
+@import "3-sections/home-soda";
+@import "3-sections/home-accompaniment";
+@import "3-sections/home-coffe";
 
 @import "4-layouts/home";
+//@import "4-layouts/home-grid";
